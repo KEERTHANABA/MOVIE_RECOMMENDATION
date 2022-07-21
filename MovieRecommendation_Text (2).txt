@@ -1,0 +1,18 @@
+=>My project is based on the recommendation
+-> pandemic - addict -movies
+-> Movie Recomnd
+-> novelty (it works based on single click)
+-> search ->excisting-> collabrative filtering -> more users
+-> I need independent recommnd
+-> Google search- rank 1 - content filtering algo
+-> content algorithm -> definition
+-> movies -> credits-> kaggle.com download
+-> new movies add in dataset (2007 , but  i have added recent movies)
+-> two datasets merge
+-> data cleaning (check null values , cleaning (genere,keywords,cast,crew,overview))
+-> data cleaning -> romoval of extra spaces
+-> data cleaning -> converting to lower case
+-> data cleaning over
+-> count vectorizer ( arrange all the data based on the keywords in the graph as slopes arranged)
+-> cosine similarity (fetch the nearby values)
+-> output fetch
